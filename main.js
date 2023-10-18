@@ -1,18 +1,4 @@
-var fruits = ["リンゴ","バナナ","イチゴ"];
-console.log(fruits);
-console.log(fruits[0]);
-
-var teacher = {
-  name: "太郎",
-  age: 25,
-  subject: "国語",
-}
-console.log(teacher);
-console.log(teacher.name);
-
-
-//課題
-var countries = ["Japan","America","Germany"];
+var countries = ["Japan","America","Germany","France"];
 console.log(countries[0]);
 console.log(countries[2]);
 
